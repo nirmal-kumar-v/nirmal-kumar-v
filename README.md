@@ -303,7 +303,7 @@ PERSONAL PRODUCTIVITY
 
 <a href="https://www.geeksforgeeks.org/profile/nirmalkumar33">
 
-<img src="https://gfgstatscard.vercel.app/nirmalkumar33" width="100%" alt="GeeksforGeeks Statistics"/>
+<img src="https://gfg-stats.tashif.codes/nirmalkumar33/stats/svg?theme=dark" width="100%" alt="GeeksforGeeks Statistics"/>
 
 </a>
 
