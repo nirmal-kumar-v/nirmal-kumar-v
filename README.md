@@ -1,44 +1,41 @@
 <div align="center">
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=NIRMAL%20KUMAR%20V&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20PROBLEM%20SOLVER%20%7C%20PRODUCT%20BUILDER&descAlignY=61&descSize=16&color=0:07070B,45:171329,75:312E81,100:6D28D9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=290&section=header&text=NIRMAL%20KUMAR%20V&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20PROBLEM%20SOLVER%20%E2%80%A2%20PRODUCT%20BUILDER&descAlignY=62&descSize=16&color=0:050508,35:13111F,68:312E81,100:7C3AED&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=42&lines=BUILDING+SYSTEMS+THAT+SOLVE+REAL+PROBLEMS.;TURNING+IDEAS+INTO+WORKING+PRODUCTS.;FULL-STACK+DEVELOPMENT+%7C+DSA+%7C+SYSTEM+DESIGN;ALWAYS+BUILDING.+ALWAYS+LEARNING." alt="Nirmal Kumar V"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=C4B5FD&center=true&vCenter=true&width=920&height=45&lines=BUILDING+SYSTEMS+THAT+SOLVE+REAL+PROBLEMS.;TURNING+IDEAS+INTO+WORKING+PRODUCTS.;FULL-STACK+DEVELOPMENT+%7C+DSA+%7C+SYSTEM+DESIGN;BUILD.+LEARN.+ITERATE." alt="Nirmal Kumar V"/>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/nirmalkumar77/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B0B12?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/LINKEDIN-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
-&nbsp;
 <a href="https://leetcode.com/u/NIRMALKUMAR_V/">
-<img src="https://img.shields.io/badge/LEETCODE-0B0B12?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+<img src="https://img.shields.io/badge/LEETCODE-0B0B0F?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
-&nbsp;
 <a href="https://www.geeksforgeeks.org/profile/nirmalkumar33">
-<img src="https://img.shields.io/badge/GEEKSFORGEEKS-0B0B12?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
+<img src="https://img.shields.io/badge/GEEKSFORGEEKS-0B0B0F?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
 </a>
-&nbsp;
 <a href="https://codeforces.com/profile/nirmal_kumar_v">
-<img src="https://img.shields.io/badge/CODEFORCES-0B0B12?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" />
+<img src="https://img.shields.io/badge/CODEFORCES-0B0B0F?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" />
+</a>
+
+<br>
+
+<a href="https://www.hackerrank.com/profile/nirmalkumar31081">
+<img src="https://img.shields.io/badge/HACKERRANK-0B0B0F?style=for-the-badge&logo=hackerrank&logoColor=2EC866" />
+</a>
+<a href="https://www.codechef.com/users/nirmal_kumar_v">
+<img src="https://img.shields.io/badge/CODECHEF-0B0B0F?style=for-the-badge&logo=codechef&logoColor=FFFFFF" />
+</a>
+<a href="https://www.duolingo.com/profile/NirmalKumar7">
+<img src="https://img.shields.io/badge/DUOLINGO-0B0B0F?style=for-the-badge&logo=duolingo&logoColor=58CC02" />
 </a>
 
 <br><br>
 
-<a href="https://www.hackerrank.com/profile/nirmalkumar31081">
-<img src="https://img.shields.io/badge/HACKERRANK-0B0B12?style=for-the-badge&logo=hackerrank&logoColor=2EC866" />
-</a>
-&nbsp;
-<a href="https://www.codechef.com/users/nirmal_kumar_v">
-<img src="https://img.shields.io/badge/CODECHEF-0B0B12?style=for-the-badge&logo=codechef&logoColor=5B4638" />
-</a>
-&nbsp;
-<a href="https://www.duolingo.com/profile/NirmalKumar7">
-<img src="https://img.shields.io/badge/DUOLINGO-0B0B12?style=for-the-badge&logo=duolingo&logoColor=58CC02" />
-</a>
+[![Hits](https://hits.sh/github.com/nirmal-kumar-v.svg?style=for-the-badge\&label=PROFILE%20VIEWS\&color=7C3AED)](https://hits.sh/github.com/nirmal-kumar-v/)
 
 </div>
 
@@ -46,17 +43,17 @@
 
 <div align="center">
 
-# **I build. I solve. I keep learning.**
+# **I build software around problems worth solving.**
 
 </div>
 
-I am **Nirmal Kumar V**, a developer focused on building practical software, strengthening problem-solving skills, and turning ideas into usable products.
+I enjoy taking an idea from **“this should exist”** to a working product.
 
-I enjoy working across the stack — from **frontend experiences and backend systems to databases, APIs and problem-solving**.
+My work spans **full-stack development, backend systems, databases, APIs, data-driven applications, and problem solving** — with a strong preference for projects that have an actual use case behind them.
 
-My projects tend to have one common thread:
+I don't want every project to solve the same kind of problem.
 
-> **Start with a real problem. Build something useful. Make the experience feel intentional.**
+I want every project to teach me something different.
 
 ---
 
@@ -64,7 +61,7 @@ My projects tend to have one common thread:
 
 # SELECTED WORK
 
-### A collection of products built for different problems.
+### **Six projects. Six different problems. One engineering journey.**
 
 </div>
 
@@ -77,9 +74,7 @@ My projects tend to have one common thread:
 
 **Civic Innovation Platform**
 
-Connects citizens, government, universities and industry to move community problems beyond reporting and toward validation, collaboration, prototypes, pilots and measurable impact.
-
-<br>
+A multi-stakeholder platform connecting citizens, government, universities and industry to move community problems beyond reporting toward validation, collaboration, prototypes, pilots and measurable impact.
 
 `React` `Node.js` `Python` `PostgreSQL` `AI`
 
@@ -91,11 +86,9 @@ Connects citizens, government, universities and industry to move community probl
 
 **Social Campaign Analytics**
 
-A platform connecting awareness, education, engagement, community sentiment and impact measurement to understand what happens beyond campaign reach.
+Connects social awareness campaigns with education, participation, sentiment signals and impact measurement to understand what happens beyond reach.
 
-<br>
-
-`HTML` `CSS` `JavaScript` `Node.js` `MongoDB`
+`JavaScript` `Node.js` `Express` `MongoDB`
 
 </td>
 
@@ -109,9 +102,7 @@ A platform connecting awareness, education, engagement, community sentiment and 
 
 **Portfolio Risk & Return Intelligence**
 
-A quantitative portfolio platform using Modern Portfolio Theory, portfolio simulation, efficient-frontier analysis and numerical optimization.
-
-<br>
+A quantitative portfolio platform using historical market data, portfolio simulation, efficient-frontier analysis and optimization to explore risk-return allocations.
 
 `React` `FastAPI` `Python` `SciPy` `NumPy`
 
@@ -125,9 +116,7 @@ A quantitative portfolio platform using Modern Portfolio Theory, portfolio simul
 
 A focused civic platform for reporting, tracking and escalating water-related issues in Perundurai through a visible accountability workflow.
 
-<br>
-
-`HTML` `CSS` `JavaScript` `Node.js` `MongoDB`
+`JavaScript` `Node.js` `Express` `MongoDB`
 
 </td>
 
@@ -143,9 +132,7 @@ A focused civic platform for reporting, tracking and escalating water-related is
 
 A course-based community where students, staff and alumni can ask doubts, share resources and interact around the same subject without the noise of general social platforms.
 
-<br>
-
-`HTML` `CSS` `JavaScript` `Node.js` `MongoDB`
+`JavaScript` `Node.js` `Express` `MongoDB`
 
 </td>
 
@@ -155,9 +142,7 @@ A course-based community where students, staff and alumni can ask doubts, share 
 
 **Private Credential Management**
 
-A personal password-management application designed to keep credentials organized, accessible and protected inside one authenticated vault.
-
-<br>
+A personal password-management application designed to keep credentials organized and protected inside one authenticated vault.
 
 `React` `JavaScript` `Vite`
 
@@ -170,71 +155,47 @@ A personal password-management application designed to keep credentials organize
 
 <div align="center">
 
-# HOW I LIKE TO BUILD
+# WHAT I BUILD FOR
 
 <br>
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### PRODUCT
-
-<br>
-
-Think from the user's problem first.
-
-</td>
-
-<td align="center" width="25%">
-
-### ENGINEERING
-
-<br>
-
-Build the system behind the experience.
-
-</td>
-
-<td align="center" width="25%">
-
-### PROBLEM SOLVING
-
-<br>
-
-Strengthen logic through DSA and competitive programming.
-
-</td>
-
-<td align="center" width="25%">
-
-### ITERATION
-
-<br>
-
-Build → test → improve → repeat.
-
-</td>
-
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2300&pause=650&color=A78BFA&center=true&vCenter=true&width=900&height=40&lines=CIVIC+TECH;EDUCATION;SOCIAL+IMPACT;FINTECH;SECURITY;DATA-DRIVEN+SYSTEMS" alt="Domains"/>
 
 </div>
+
+<br>
+
+The common thread is not a particular framework.
+
+It is **problem-first engineering**:
+
+```text
+REAL PROBLEM
+     ↓
+UNDERSTAND THE USER
+     ↓
+DESIGN THE SYSTEM
+     ↓
+BUILD THE PRODUCT
+     ↓
+TEST THE IDEA
+     ↓
+ITERATE
+```
 
 ---
 
 <div align="center">
 
-# TECHNOLOGY
+# ENGINEERING STACK
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,js,python,react,vite,nodejs,express,html,css,mongodb,postgres,fastapi,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,js,python,react,vite,nodejs,express,fastapi,html,css,mongodb,postgres,git,github,vscode" alt="Technology stack"/>
 
 <br><br>
 
-`Java` · `JavaScript` · `Python` · `React` · `Node.js` · `Express` · `FastAPI` · `MongoDB` · `PostgreSQL` · `HTML` · `CSS` · `Git`
+`Java` · `JavaScript` · `Python` · `React` · `Node.js` · `Express` · `FastAPI` · `MongoDB` · `PostgreSQL` · `Git`
 
 </div>
 
@@ -244,14 +205,40 @@ Build → test → improve → repeat.
 
 # PROBLEM SOLVING
 
+### **Where I sharpen the engineering behind the product.**
+
 <br>
 
-<img src="https://leetcard.jacoblin.cool/NIRMALKUMAR_V?theme=dark&ext=heatmap" width="720" alt="Nirmal Kumar V LeetCode Statistics"/>
+<table>
+<tr>
 
-<br><br>
+<td width="50%" align="center">
+
+<img src="https://leetcode-stats.tashif.codes/NIRMALKUMAR_V/stats/svg?theme=dark" width="100%" alt="LeetCode Statistics"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://gfg-stats.tashif.codes/nirmalkumar33/stats/svg?theme=dark" width="100%" alt="GeeksforGeeks Statistics"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
 
 <a href="https://leetcode.com/u/NIRMALKUMAR_V/">
-<img src="https://img.shields.io/badge/LEETCODE%20PROFILE-0B0B12?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+<img src="https://img.shields.io/badge/LEETCODE%20%2F%20NIRMALKUMAR__V-0B0B0F?style=flat-square&logo=leetcode&logoColor=FFA116" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/nirmalkumar33">
+<img src="https://img.shields.io/badge/GFG%20%2F%20NIRMALKUMAR33-0B0B0F?style=flat-square&logo=geeksforgeeks&logoColor=2F8D46" />
 </a>
 
 </div>
@@ -260,7 +247,7 @@ Build → test → improve → repeat.
 
 <div align="center">
 
-# GITHUB PULSE
+# GITHUB // LIVE
 
 <br>
 
@@ -269,7 +256,7 @@ Build → test → improve → repeat.
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nirmal-kumar-v&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=9CA3AF&rank_icon=github" width="100%" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nirmal-kumar-v&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=9CA3AF&include_all_commits=true&rank_icon=github" width="100%" alt="GitHub Statistics"/>
 
 </td>
 
@@ -284,7 +271,7 @@ Build → test → improve → repeat.
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=nirmal-kumar-v&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=2A2438" width="760" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=nirmal-kumar-v&theme=dark&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=2A2438" width="760" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -292,11 +279,11 @@ Build → test → improve → repeat.
 
 <div align="center">
 
-# ACTIVITY
+# CONTRIBUTION SIGNAL
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmal-kumar-v&bg_color=00000000&color=9CA3AF&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Recent%20GitHub%20Activity" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmal-kumar-v&theme=github-compact&hide_border=true&area=true&custom_title=NIRMAL%20KUMAR%20V%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="96%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -313,9 +300,9 @@ Build → test → improve → repeat.
 
 <td align="center" width="33%">
 
-### 1ST PRIZE
+## `01`
 
-<br>
+### 1ST PRIZE
 
 **Centre of Excellence Hackathon**
 
@@ -327,9 +314,9 @@ Build → test → improve → repeat.
 
 <td align="center" width="33%">
 
-### O GRADE
+## `02`
 
-<br>
+### O GRADE
 
 **Top Grade**
 
@@ -341,9 +328,9 @@ Build → test → improve → repeat.
 
 <td align="center" width="33%">
 
-### O GRADE
+## `03`
 
-<br>
+### O GRADE
 
 **Top Grade**
 
@@ -362,16 +349,40 @@ Build → test → improve → repeat.
 
 <div align="center">
 
-# ELSEWHERE
+# BEYOND CODE
+
+<br>
+
+<a href="https://www.duolingo.com/profile/NirmalKumar7">
+<img src="https://img.shields.io/badge/DUOLINGO-LEARNING%20OUTSIDE%20THE%20STACK-0B0B0F?style=for-the-badge&logo=duolingo&logoColor=58CC02" />
+</a>
 
 <br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=800&height=38&lines=CODE+IS+ONE+WAY+TO+LEARN.;STAY+CURIOUS.;KEEP+BUILDING." alt="Beyond code"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# CONNECT
+
+<br>
+
 <a href="mailto:nirmalkumar31082006@gmail.com">
-<img src="https://img.shields.io/badge/PERSONAL%20MAIL-0B0B12?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+
+<img src="https://img.shields.io/badge/PERSONAL%20EMAIL-0B0B0F?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+
 </a>
-&nbsp;
+
+ 
+
 <a href="mailto:nirmalkumarv.24it@kongu.edu">
-<img src="https://img.shields.io/badge/ACADEMIC%20MAIL-0B0B12?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+
+<img src="https://img.shields.io/badge/ACADEMIC%20EMAIL-0B0B0F?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+
 </a>
 
 </div>
@@ -380,24 +391,12 @@ Build → test → improve → repeat.
 
 <div align="center">
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2600&pause=850&color=A78BFA&center=true&vCenter=true&width=820&height=42&lines=BUILD+WITH+PURPOSE.;SOLVE+WITH+LOGIC.;LEARN+IN+PUBLIC.;KEEP+MOVING." alt="Closing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=2600&pause=850&color=C4B5FD&center=true&vCenter=true&width=900&height=45&lines=BUILD+WITH+PURPOSE.;SOLVE+WITH+LOGIC.;LEARN+WITH+EVERY+PROJECT.;KEEP+MOVING." alt="Closing statement"/>
 
 <br><br>
 
-<a href="https://github.com/nirmal-kumar-v">
-
-<img src="https://img.shields.io/badge/GITHUB%20%2F%20NIRMAL--KUMAR--V-0B0B12?style=for-the-badge&logo=github&logoColor=FFFFFF&color=7C3AED" />
-
-</a>
-
-<br><br>
-
-<sub>Software is the craft. Problem solving is the habit.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=145&section=footer&color=0:7C3AED,50:312E81,100:07070B&animation=fadeIn" width="100%"/>
 
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6D28D9,50:312E81,100:07070B" width="100%"/>
