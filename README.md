@@ -344,9 +344,7 @@ PERSONAL PRODUCTIVITY
 </tr>
 </table>
 
-<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmal-kumar-v&bg_color=00000000&color=6B7280&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=NIRMAL%20KUMAR%20V%20%E2%80%94%20RECENT%20ACTIVITY&radius=12" width="96%" alt="GitHub Activity Graph"/>
 
 </div>
 
