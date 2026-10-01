@@ -307,6 +307,9 @@ PERSONAL PRODUCTIVITY
 
 </a>
 
+<br><br>
+
+[![GFG Problems Solved](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgeeks--for--geeks--stats--api.vercel.app%2F%3Fraw%3DY%26userName%3Dnirmalkumar33&query=%24.totalProblemsSolved&label=GFG%20PROBLEMS%20SOLVED&style=for-the-badge&logo=geeksforgeeks&logoColor=white&color=2F8D46&labelColor=111111)](https://www.geeksforgeeks.org/profile/nirmalkumar33)
 </td>
 
 </tr>
