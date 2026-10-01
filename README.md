@@ -2,42 +2,19 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=NIRMAL%20KUMAR%20V&fontSize=56&fontColor=FFFFFF&fontAlignY=37&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20DSA%20%E2%80%A2%20PRODUCT%20BUILDER&descAlignY=61&descSize=17&color=0:050509,35:11111B,65:312E81,100:7C3AED&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=NIRMAL%20KUMAR%20V&fontSize=58&fontColor=FFFFFF&fontAlignY=37&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20DSA%20%E2%80%A2%20PRODUCT%20BUILDER&descAlignY=62&descSize=17&color=0:050509,30:11111B,62:272343,100:7C3AED&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=C4B5FD&center=true&vCenter=true&width=950&height=45&lines=BUILDING+SYSTEMS+THAT+SOLVE+REAL+PROBLEMS.;TURNING+IDEAS+INTO+WORKING+PRODUCTS.;FULL-STACK+DEVELOPMENT+%7C+DSA+%7C+SYSTEM+DESIGN;BUILD.+LEARN.+ITERATE." alt="Nirmal Kumar V"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2700&pause=850&color=C4B5FD&center=true&vCenter=true&width=950&height=45&lines=BUILDING+SYSTEMS+THAT+SOLVE+REAL+PROBLEMS.;TURNING+IDEAS+INTO+WORKING+PRODUCTS.;FULL-STACK+DEVELOPMENT+%7C+DSA+%7C+SYSTEM+DESIGN;BUILD.+LEARN.+ITERATE." alt="Nirmal Kumar V"/>
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/nirmalkumar77/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="https://leetcode.com/u/NIRMALKUMAR_V/">
-<img src="https://img.shields.io/badge/LEETCODE-0B0B0F?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>
-<a href="https://www.geeksforgeeks.org/profile/nirmalkumar33">
-<img src="https://img.shields.io/badge/GEEKSFORGEEKS-0B0B0F?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
-</a>
-<a href="https://codeforces.com/profile/nirmal_kumar_v">
-<img src="https://img.shields.io/badge/CODEFORCES-0B0B0F?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" />
-</a>
+<a href="https://www.linkedin.com/in/nirmalkumar77/"><img src="https://img.shields.io/badge/LINKEDIN-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a> <a href="https://leetcode.com/u/NIRMALKUMAR_V/"><img src="https://img.shields.io/badge/LEETCODE-0B0B0F?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a> <a href="https://www.geeksforgeeks.org/profile/nirmalkumar33"><img src="https://img.shields.io/badge/GEEKSFORGEEKS-0B0B0F?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/></a> <a href="https://codeforces.com/profile/nirmal_kumar_v"><img src="https://img.shields.io/badge/CODEFORCES-0B0B0F?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/></a>
 
 <br>
 
-<a href="https://www.hackerrank.com/profile/nirmalkumar31081">
-<img src="https://img.shields.io/badge/HACKERRANK-0B0B0F?style=for-the-badge&logo=hackerrank&logoColor=2EC866" />
-</a>
-<a href="https://www.codechef.com/users/nirmal_kumar_v">
-<img src="https://img.shields.io/badge/CODECHEF-0B0B0F?style=for-the-badge&logo=codechef&logoColor=FFFFFF" />
-</a>
-<a href="https://www.duolingo.com/profile/NirmalKumar7">
-<img src="https://img.shields.io/badge/DUOLINGO-0B0B0F?style=for-the-badge&logo=duolingo&logoColor=58CC02" />
-</a>
-
-<br><br>
-
-[![Hits](https://hits.sh/github.com/nirmal-kumar-v.svg?style=for-the-badge\&label=PROFILE%20VIEWS\&color=7C3AED)](https://hits.sh/github.com/nirmal-kumar-v/)
+<a href="https://www.hackerrank.com/profile/nirmalkumar31081"><img src="https://img.shields.io/badge/HACKERRANK-0B0B0F?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/></a> <a href="https://www.codechef.com/users/nirmal_kumar_v"><img src="https://img.shields.io/badge/CODECHEF-0B0B0F?style=for-the-badge&logo=codechef&logoColor=FFFFFF"/></a> <a href="https://www.duolingo.com/profile/NirmalKumar7"><img src="https://img.shields.io/badge/DUOLINGO-0B0B0F?style=for-the-badge&logo=duolingo&logoColor=58CC02"/></a>
 
 </div>
 
@@ -49,39 +26,27 @@
 
 </div>
 
-I'm **Nirmal Kumar V**, a **B.Tech Information Technology student at Kongu Engineering College** with a strong focus on **full-stack development, Data Structures & Algorithms, and building practical software products**.
+I'm **Nirmal Kumar V**, a **B.Tech Information Technology student at Kongu Engineering College**, currently focused on **full-stack development, Data Structures & Algorithms, system design, and product engineering**.
 
-I enjoy taking a problem from:
+I like building software where the starting point is a problem rather than a framework.
 
-```text
-IDEA
-  ↓
-UNDERSTANDING
-  ↓
-SYSTEM DESIGN
-  ↓
-IMPLEMENTATION
-  ↓
-TESTING
-  ↓
-WORKING PRODUCT
-```
+From civic platforms and social-impact systems to fintech dashboards, education tools and security-focused applications, every project has been an opportunity to learn a different part of software engineering.
 
-My projects span **civic technology, social impact, education, fintech, security and productivity**.
+<br>
 
-Different domains.
-Different constraints.
-Same mindset:
+<div align="center">
 
-> **Build something useful. Then make it better.**
+`PROBLEM` → `UNDERSTAND` → `DESIGN` → `BUILD` → `TEST` → `ITERATE`
+
+</div>
 
 ---
 
 <div align="center">
 
-# SELECTED WORK
+# **SELECTED BUILDS**
 
-### **Different problems. Different systems. One continuous engineering journey.**
+### Seven projects. Seven different problems.
 
 </div>
 
@@ -90,11 +55,11 @@ Same mindset:
 
 <td width="50%" valign="top">
 
-### [SETU](https://setu-connect.vercel.app/)
+## [SETU](https://setu-connect.vercel.app/)
 
 **Civic Innovation Platform**
 
-Connects citizens, government, universities and industry to transform local problems into validated solutions, prototypes, pilots and measurable impact.
+Connects citizens, government, universities and industry to move community problems beyond reporting toward validation, collaboration, prototypes, pilots and measurable impact.
 
 <br>
 
@@ -104,7 +69,7 @@ Connects citizens, government, universities and industry to transform local prob
 
 <td width="50%" valign="top">
 
-### [ChangeWave](https://changewave.tech/)
+## [ChangeWave](https://changewave.tech/)
 
 **Social Campaign Analytics**
 
@@ -122,11 +87,11 @@ Connects awareness, education, engagement, community sentiment and impact measur
 
 <td width="50%" valign="top">
 
-### [OptiVest](https://optivest-psi.vercel.app/)
+## [OptiVest](https://optivest-psi.vercel.app/)
 
 **Portfolio Risk & Return Intelligence**
 
-A quantitative portfolio platform combining historical market data, portfolio simulation, efficient-frontier analysis and numerical optimization.
+A quantitative portfolio platform combining market data, portfolio simulation, efficient-frontier analysis and numerical optimization.
 
 <br>
 
@@ -136,15 +101,15 @@ A quantitative portfolio platform combining historical market data, portfolio si
 
 <td width="50%" valign="top">
 
-### [Perundurai Water](https://perundurai-water-system.netlify.app/)
+## [Perundurai Water](https://perundurai-water-system.netlify.app/)
 
 **Transparent Civic Reporting**
 
-A citizen-focused platform for reporting, tracking and escalating water-related issues through a visible accountability workflow.
+A focused civic platform for reporting, tracking and escalating water-related issues through a visible accountability workflow.
 
 <br>
 
-`HTML` `CSS` `JavaScript` `Node.js` `MongoDB`
+`JavaScript` `Node.js` `Express` `MongoDB`
 
 </td>
 
@@ -154,7 +119,7 @@ A citizen-focused platform for reporting, tracking and escalating water-related 
 
 <td width="50%" valign="top">
 
-### [KEC Community Hub](https://campus-course-chat.netlify.app/)
+## [KEC Community Hub](https://campus-course-chat.netlify.app/)
 
 **Focused Academic Collaboration**
 
@@ -168,7 +133,7 @@ A course-based community where students, staff and alumni can ask doubts, share 
 
 <td width="50%" valign="top">
 
-### [Secure Vault](https://secure-vault-coral.vercel.app/)
+## [Secure Vault](https://secure-vault-coral.vercel.app/)
 
 **Private Credential Management**
 
@@ -186,11 +151,11 @@ A personal password-management application designed to keep credentials organize
 
 <td width="50%" valign="top">
 
-### [Portfolio Tracker](https://github.com/nirmal-kumar-v/portfolio-tracker)
+## [Portfolio Tracker](https://nirmal-tracker.netlify.app/)
 
-**Personal Finance Dashboard**
+**Personal Investment Tracker**
 
-A personal investment-tracking project created to monitor portfolio information through a simple web interface.
+A lightweight application for monitoring personal investment holdings and portfolio information through a focused interface.
 
 <br>
 
@@ -200,15 +165,13 @@ A personal investment-tracking project created to monitor portfolio information 
 
 <td width="50%" valign="top">
 
-### MORE IN PROGRESS
+### MORE TO COME
 
-**Always Building**
-
-New experiments, hackathon systems and smaller engineering projects continue to evolve alongside the main portfolio.
+New experiments continue through academic work, hackathons and personal builds.
 
 <br>
 
-`Build` `Learn` `Iterate`
+`BUILD` `LEARN` `ITERATE`
 
 </td>
 
@@ -219,52 +182,7 @@ New experiments, hackathon systems and smaller engineering projects continue to 
 
 <div align="center">
 
-# **PROJECTS WITH A PURPOSE**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=650&color=A78BFA&center=true&vCenter=true&width=900&height=40&lines=CIVIC+TECH;SOCIAL+IMPACT;EDUCATION;FINTECH;SECURITY;PRODUCTIVITY" alt="Project domains"/>
-
-</div>
-
-<br>
-
-The projects aren't built around one fixed stack or one fixed domain.
-
-They are experiments in solving different kinds of problems:
-
-```text
-PUBLIC PROBLEMS
-      │
-      ├── SETU
-      └── PERUNDURAI WATER
-
-SOCIAL IMPACT
-      │
-      └── CHANGEWAVE
-
-QUANTITATIVE FINANCE
-      │
-      └── OPTIVEST
-
-ACADEMIC COLLABORATION
-      │
-      └── KEC COMMUNITY HUB
-
-SECURITY
-      │
-      └── SECURE VAULT
-
-PERSONAL PRODUCTIVITY
-      │
-      └── PORTFOLIO TRACKER
-```
-
----
-
-<div align="center">
-
-# ENGINEERING STACK
+# **ENGINEERING**
 
 <br>
 
@@ -282,7 +200,7 @@ PERSONAL PRODUCTIVITY
 
 # **PROBLEM SOLVING**
 
-### DSA is where I sharpen the logic behind the systems I build.
+### Building products teaches me what to build. DSA teaches me how to think.
 
 <br>
 
@@ -291,62 +209,60 @@ PERSONAL PRODUCTIVITY
 
 <td width="50%" align="center" valign="top">
 
-<a href="https://leetcode.com/u/NIRMALKUMAR_V/">
+<img src="https://leetcode-stats.tashif.codes/NIRMALKUMAR_V/stats/svg?theme=dark" width="100%" alt="Live LeetCode Statistics"/>
 
-<img src="https://leetcard.jacoblin.cool/NIRMALKUMAR_V?theme=dark&ext=heatmap" width="100%" alt="LeetCode Statistics"/>
+<br><br>
 
-</a>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats.tashif.codes%2FNIRMALKUMAR_V%2Fstats&query=%24.data.totalSolved&label=LEETCODE%20PROBLEMS%20SOLVED&style=for-the-badge&labelColor=111111&color=FFA116&logo=leetcode&logoColor=FFFFFF" alt="Live LeetCode solved count"/>
 
 </td>
 
 <td width="50%" align="center" valign="top">
 
-<a href="https://www.geeksforgeeks.org/profile/nirmalkumar33">
+<img src="https://gfg-stats.tashif.codes/nirmalkumar33/stats/svg?theme=dark" width="100%" alt="Live GeeksforGeeks Statistics"/>
 
-<img src="https://gfgstatscard.vercel.app/nirmalkumar33" width="100%" alt="GeeksforGeeks Statistics"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fnirmalkumar33%2Fstats&query=%24.data.totalSolved&label=GFG%20PROBLEMS%20SOLVED&style=for-the-badge&labelColor=111111&color=2F8D46&logo=geeksforgeeks&logoColor=FFFFFF" alt="Live GeeksforGeeks solved count"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### Primary DSA language — **Java**
+
+</div>
+
+---
+
+<div align="center">
+
+# **GITHUB // LIVE**
+
+<br>
+
+<a href="https://github-stats-extended.vercel.app/api?username=nirmal-kumar-v&show_icons=true&theme=transparent&include_all_commits=true">
+
+<img src="https://github-stats-extended.vercel.app/api?username=nirmal-kumar-v&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github" height="190" alt="GitHub statistics"/>
 
 </a>
 
-</td>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=nirmal-kumar-v&layout=compact&langs_count=8&theme=transparent">
 
-</tr>
-</table>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=nirmal-kumar-v&layout=compact&langs_count=8&theme=transparent&card_width=330" height="190" alt="Top languages"/>
 
-<br>
+</a>
 
-### Primary language for DSA: **Java**
+<br><br>
 
-</div>
+<img src="https://streak-stats.demolab.com?user=nirmal-kumar-v&theme=dark&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=2A2438" width="760" alt="GitHub contribution streak"/>
 
----
+<br><br>
 
-<div align="center">
-
-# GITHUB // LIVE SIGNAL
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<img src="https://github-stats-extended.vercel.app/api?username=nirmal-kumar-v&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=8B5CF6&text_color=6B7280&include_all_commits=true&rank_icon=github" width="100%" alt="GitHub Statistics"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nirmal-kumar-v&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=6B7280&langs_count=8" width="100%" alt="Top Languages"/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmal-kumar-v&bg_color=00000000&color=6B7280&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=NIRMAL%20KUMAR%20V%20%E2%80%94%20RECENT%20ACTIVITY&radius=12" width="96%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmal-kumar-v&theme=github-compact&hide_border=true&area=true&custom_title=NIRMAL%20KUMAR%20V%20%E2%80%94%20RECENT%20ACTIVITY" width="96%" alt="GitHub contribution activity"/>
 
 </div>
 
@@ -354,26 +270,24 @@ PERSONAL PRODUCTIVITY
 
 <div align="center">
 
-# ACADEMIC & CAREER
+# **ACADEMIC PROFILE**
 
 <br>
 
 ### **B.Tech — Information Technology**
 
-**Kongu Engineering College**
+### **Kongu Engineering College**
 
-<br>
-
-`FULL-STACK DEVELOPMENT` · `DATA STRUCTURES & ALGORITHMS` · `COMPETITIVE PROGRAMMING`
+`3rd Year` · `Expected Graduation: 2028`
 
 <br><br>
 
-<img src="https://img.shields.io/badge/ELITE%20PaCC-DSA%20%26%20PLACEMENT%20TRACK-11111B?style=for-the-badge&labelColor=11111B&color=7C3AED"/>
+<img src="https://img.shields.io/badge/ELITE%20PaCC-DSA%20%26%20PLACEMENT-11111B?style=for-the-badge&labelColor=11111B&color=7C3AED"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CERTIFIED-DSA%20%E2%80%94%20GeeksforGeeks-11111B?style=flat-square&color=8B5CF6"/>
-<img src="https://img.shields.io/badge/CERTIFIED-PYTHON%20%E2%80%94%20HCL%20Technologies-11111B?style=flat-square&color=A78BFA"/>
+<img src="https://img.shields.io/badge/DSA-CERTIFIED%20%E2%80%94%20GeeksforGeeks-11111B?style=flat-square&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/PYTHON-CERTIFIED%20%E2%80%94%20HCL%20Technologies-11111B?style=flat-square&color=A78BFA"/>
 
 </div>
 
@@ -381,7 +295,7 @@ PERSONAL PRODUCTIVITY
 
 <div align="center">
 
-# ACHIEVEMENTS
+# **RECOGNITION**
 
 <br>
 
@@ -390,7 +304,7 @@ PERSONAL PRODUCTIVITY
 
 <td align="center" width="33%">
 
-### `01`
+### 01
 
 ## 1ST PRIZE
 
@@ -404,7 +318,7 @@ PERSONAL PRODUCTIVITY
 
 <td align="center" width="33%">
 
-### `02`
+### 02
 
 ## O GRADE
 
@@ -418,7 +332,7 @@ PERSONAL PRODUCTIVITY
 
 <td align="center" width="33%">
 
-### `03`
+### 03
 
 ## O GRADE
 
@@ -433,17 +347,13 @@ PERSONAL PRODUCTIVITY
 </tr>
 </table>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2300&pause=700&color=A78BFA&center=true&vCenter=true&width=850&height=38&lines=HACKATHONS.;ACADEMIC+BUILDS.;REAL+PROBLEMS.;WORKING+SYSTEMS." alt="Achievements"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-# BUILDING THROUGH HACKATHONS
+# **HACKATHON MODE**
 
 <br>
 
@@ -452,46 +362,62 @@ PERSONAL PRODUCTIVITY
 
 <td align="center" width="50%">
 
-### **SMART INDIA HACKATHON 2026**
+### SMART INDIA HACKATHON 2026
 
 <br>
 
-Multi-stakeholder civic innovation through **SETU**.
+**SETU**
+
+<br>
+
+<sub>
+A multi-stakeholder civic innovation platform connecting citizens, institutions, government and industry.
+</sub>
 
 </td>
 
 <td align="center" width="50%">
 
-### **DEVFORGE'26**
+### DEVFORGE'26
 
 <br>
 
-24-hour product engineering and rapid system development.
+**24-HOUR BUILD**
+
+<br>
+
+<sub>
+Rapid product engineering under a time-constrained hackathon environment.
+</sub>
 
 </td>
 
 </tr>
 </table>
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=650&color=8B5CF6&center=true&vCenter=true&width=820&height=38&lines=IDEA+UNDER+PRESSURE.;ARCHITECTURE+UNDER+TIME.;PRODUCT+UNDER+DEADLINE." alt="Hackathon mode"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-# BEYOND THE STACK
+# **BEYOND THE STACK**
 
 <br>
 
 <a href="https://www.duolingo.com/profile/NirmalKumar7">
 
-<img src="https://img.shields.io/badge/DUOLINGO-LEARNING%20BEYOND%20CODE-11111B?style=for-the-badge&logo=duolingo&logoColor=58CC02&color=58CC02" />
+<img src="https://img.shields.io/badge/DUOLINGO-LEARNING%20BEYOND%20CODE-11111B?style=for-the-badge&logo=duolingo&logoColor=58CC02&color=58CC02"/>
 
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=760&height=38&lines=TECHNOLOGY+CHANGES.;CURIOSITY+STAYS." alt="Beyond the stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=760&height=38&lines=CODE+IS+ONE+WAY+TO+LEARN.;STAY+CURIOUS.;KEEP+BUILDING." alt="Beyond code"/>
 
 </div>
 
@@ -499,22 +425,30 @@ Multi-stakeholder civic innovation through **SETU**.
 
 <div align="center">
 
-# CONNECT
+# **CONNECT**
 
 <br>
 
 <a href="mailto:nirmalkumar31082006@gmail.com">
-<img src="https://img.shields.io/badge/PERSONAL-EMAIL-0B0B0F?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+
+<img src="https://img.shields.io/badge/PERSONAL%20EMAIL-0B0B0F?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+
 </a>
 
+ 
+
 <a href="mailto:nirmalkumarv.24it@kongu.edu">
-<img src="https://img.shields.io/badge/ACADEMIC-EMAIL-0B0B0F?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+
+<img src="https://img.shields.io/badge/ACADEMIC%20EMAIL-0B0B0F?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+
 </a>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/nirmalkumar77/">
-<img src="https://img.shields.io/badge/PROFESSIONAL%20NETWORK-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+
+<img src="https://img.shields.io/badge/PROFESSIONAL%20PROFILE-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+
 </a>
 
 </div>
@@ -525,26 +459,10 @@ Multi-stakeholder civic innovation through **SETU**.
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=2700&pause=850&color=C4B5FD&center=true&vCenter=true&width=900&height=45&lines=BUILD+WITH+PURPOSE.;SOLVE+WITH+LOGIC.;LEARN+WITH+EVERY+PROJECT.;KEEP+MOVING." alt="Closing statement"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=2700&pause=850&color=C4B5FD&center=true&vCenter=true&width=900&height=45&lines=BUILD+WITH+PURPOSE.;SOLVE+WITH+LOGIC.;LEARN+WITH+EVERY+PROJECT.;KEEP+MOVING." alt="Closing"/>
 
 <br><br>
 
-<a href="https://github.com/nirmal-kumar-v">
-
-<img src="https://img.shields.io/badge/NIRMAL--KUMAR--V-0B0B0F?style=for-the-badge&logo=github&logoColor=FFFFFF&color=7C3AED" />
-
-</a>
-
-<br><br>
-
-<sub>
-
-Software is the craft. Problem solving is the habit.
-
-</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:7C3AED,50:312E81,100:07070B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=145&section=footer&color=0:7C3AED,50:312E81,100:07070B&animation=fadeIn" width="100%"/>
 
 </div>
